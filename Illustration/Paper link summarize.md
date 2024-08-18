@@ -34,8 +34,17 @@
 	2023-02-02
 	Rumah Jurnal Elektronik Ikatan Ahli Informatika Indonesia (IAII)
 ```
-Link: [[4622-Article Text-15588-1-10-20230202.pdf]]
-Dataset: https://data.mendeley.com/datasets/t2r6rszp5c/1
-Disease class: #Arabica , Rust, Phoma, Cescopora, Healthy, Miner
++ Link: [[4622-Article Text-15588-1-10-20230202.pdf]]
++ Dataset: https://data.mendeley.com/datasets/t2r6rszp5c/1
++ Disease class: #Arabica , Rust, Phoma, Cescopora, Healthy, Miner
 
-5. 
+5. Early Detection of Coffee Leaf Rust Through Convolutional Neural Networks Trained on Low-Resolution Images
+```
+	20 Jul 2024
+	arXiv preprint arXiv:2407.14737
+```
+Link: [[2407.14737v1.pdf]]
++ Dataset: 
+	+  https://www.kaggle.com/datasets/gauravduttakiit/coffee-leaf-diseases
+	+ https://www.researchgate.net/publication/350312125_Artificial_intelligence_for_detection_and_quantification_of_rust_and_leaf_miner_in_coffee_crop
+Disease class: #Arabica , Rust
