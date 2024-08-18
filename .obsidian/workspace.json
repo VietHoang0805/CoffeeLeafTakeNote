@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Illustration/Paper link summarize.md",
+                "file": "Dataset/Coffee Dataset Link.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Illustration/Paper link summarize.md",
+                "file": "Dataset/Coffee Dataset Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Illustration/Paper link summarize.md",
+                "file": "Dataset/Coffee Dataset Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Illustration/Paper link summarize.md"
+                "file": "Dataset/Coffee Dataset Link.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "806deb1b58b7ba2e",
   "lastOpenFiles": [
-    "Paper/Robusta_coffee_leaf_diseases_detection_b.pdf",
-    "Paper/IJSRA-2024-0212.pdf",
-    "Dataset/Coffee Dataset Link.md",
+    "README.md",
     "Illustration/Paper link summarize.md",
+    "Dataset/Coffee Dataset Link.md",
+    "Paper/IJSRA-2024-0212.pdf",
+    "Paper/Robusta_coffee_leaf_diseases_detection_b.pdf",
+    "File docs,pdf to combine/~$ke note coffee.docx",
     "File docs,pdf to combine/~WRL0036.tmp",
     "File docs,pdf to combine/~WRD0032.tmp",
     "Image relevant/Table model method.png",
@@ -168,8 +170,6 @@
     "Dataset/Robusta dataset/Photos/C9P8H1.jpg",
     "Dataset/Robusta dataset/Photos/C9P8E2.jpg",
     "Dataset/Robusta dataset/Photos",
-    "Dataset/Robusta dataset/Annotations/RoCoLe-voc.tar.gz",
-    "Dataset/Robusta dataset/Annotations/RoCoLE-json.json",
-    "Dataset/Robusta dataset/Annotations/RoCoLE-coco.json"
+    "Dataset/Robusta dataset/Annotations/RoCoLe-voc.tar.gz"
   ]
 }
