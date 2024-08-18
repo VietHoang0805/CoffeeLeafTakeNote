@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "b74026f05a734cfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d90fccb5911c2f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "806deb1b58b7ba2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Illustration/Paper link summarize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "103f87954c9b6956",
+    "type": "split",
+    "children": [
+      {
+        "id": "e98892e56a6d91b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4ccd4c6c904b9a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74bd82044546dc43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdce43ff862ad205",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bba2c5bdb88722b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e37e89eb7803336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad567708a6f86f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Illustration/Paper link summarize.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a30eb500bbb1817",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Illustration/Paper link summarize.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6095790810e735d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ebf3e48284469f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Illustration/Paper link summarize.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "806deb1b58b7ba2e",
+  "lastOpenFiles": [
+    "Paper/Robusta_coffee_leaf_diseases_detection_b.pdf",
+    "Paper/IJSRA-2024-0212.pdf",
+    "Dataset/Coffee Dataset Link.md",
+    "Illustration/Paper link summarize.md",
+    "File docs,pdf to combine/~WRL0036.tmp",
+    "File docs,pdf to combine/~WRD0032.tmp",
+    "Image relevant/Table model method.png",
+    "Pasted image 20240818162255.png",
+    "Image relevant/Accuracy number.png",
+    "Image relevant",
+    "New folder",
+    "Dataset/Robusta dataset/Annotations/~$RoCoLe-classes.xlsx",
+    "Dataset/Robusta dataset/Photos/C9P9H2.jpg",
+    "Dataset/Robusta dataset/Photos/C9P9H1.jpg",
+    "Dataset/Robusta dataset/Photos/C9P9E2.jpg",
+    "Dataset/Robusta dataset/Photos/C9P9E1.jpg",
+    "Dataset/Robusta dataset/Photos/C9P8H2.jpg",
+    "Dataset/Robusta dataset/Photos/C9P8H1.jpg",
+    "Dataset/Robusta dataset/Photos/C9P8E2.jpg",
+    "Dataset/Robusta dataset/Photos",
+    "Dataset/Robusta dataset/Annotations/RoCoLe-voc.tar.gz",
+    "Dataset/Robusta dataset/Annotations/RoCoLE-json.json",
+    "Dataset/Robusta dataset/Annotations/RoCoLE-coco.json"
+  ]
+}
