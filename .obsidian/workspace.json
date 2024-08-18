@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md",
+                "file": "Illustration/Paper link summarize.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md",
+                "file": "Illustration/Paper link summarize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md",
+                "file": "Illustration/Paper link summarize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md"
+                "file": "Illustration/Paper link summarize.md"
               }
             }
           }
@@ -148,28 +149,29 @@
   },
   "active": "806deb1b58b7ba2e",
   "lastOpenFiles": [
+    "Paper/~~$4622-Article Text-15588-1-10-20230202.pdf",
+    "Paper/4622-Article Text-15588-1-10-20230202.pdf",
+    "Paper/4622-Article Text-15588-1-10-20230202.pdf.crdownload",
+    "Paper/~~$Robusta_coffee_leaf_diseases_detection_b.pdf",
+    "Paper/Robusta_coffee_leaf_diseases_detection_b.pdf",
+    "Paper/IJSRA-2024-0212.pdf",
+    "Image relevant/Accuracy number.png",
+    "Dataset/Coffee Dataset Link.md",
     "README.md",
     "Illustration/Paper link summarize.md",
-    "Dataset/Coffee Dataset Link.md",
-    "Paper/IJSRA-2024-0212.pdf",
-    "Paper/Robusta_coffee_leaf_diseases_detection_b.pdf",
     "File docs,pdf to combine/~$ke note coffee.docx",
     "File docs,pdf to combine/~WRL0036.tmp",
     "File docs,pdf to combine/~WRD0032.tmp",
     "Image relevant/Table model method.png",
     "Pasted image 20240818162255.png",
-    "Image relevant/Accuracy number.png",
     "Image relevant",
     "New folder",
-    "Dataset/Robusta dataset/Annotations/~$RoCoLe-classes.xlsx",
     "Dataset/Robusta dataset/Photos/C9P9H2.jpg",
     "Dataset/Robusta dataset/Photos/C9P9H1.jpg",
     "Dataset/Robusta dataset/Photos/C9P9E2.jpg",
     "Dataset/Robusta dataset/Photos/C9P9E1.jpg",
     "Dataset/Robusta dataset/Photos/C9P8H2.jpg",
     "Dataset/Robusta dataset/Photos/C9P8H1.jpg",
-    "Dataset/Robusta dataset/Photos/C9P8E2.jpg",
-    "Dataset/Robusta dataset/Photos",
-    "Dataset/Robusta dataset/Annotations/RoCoLe-voc.tar.gz"
+    "Dataset/Robusta dataset/Photos/C9P8E2.jpg"
   ]
 }
