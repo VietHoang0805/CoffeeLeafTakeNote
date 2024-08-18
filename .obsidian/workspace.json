@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md",
+                "file": "Illustration/Paper link summarize.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md",
+                "file": "Illustration/Paper link summarize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md",
+                "file": "Illustration/Paper link summarize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataset/Coffee Dataset Link.md"
+                "file": "Illustration/Paper link summarize.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "806deb1b58b7ba2e",
   "lastOpenFiles": [
+    "Dataset/Coffee Dataset Link.md",
     "Illustration/Paper link summarize.md",
     "Image relevant/Table model method.png",
     "Paper/2407.14737v1.pdf",
     "Paper/2407.14737v1.pdf.crdownload",
     "Image relevant/Accuracy number.png",
     "Paper/Robusta_coffee_leaf_diseases_detection_b.pdf",
-    "Dataset/Coffee Dataset Link.md",
     "Paper/~~$4622-Article Text-15588-1-10-20230202.pdf",
     "Paper/4622-Article Text-15588-1-10-20230202.pdf",
     "Paper/4622-Article Text-15588-1-10-20230202.pdf.crdownload",
